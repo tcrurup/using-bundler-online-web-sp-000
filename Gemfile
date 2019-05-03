@@ -11,4 +11,5 @@ end
 
 group :test do
   gem "pry"
+  gem "repsec"
 end
